@@ -1,0 +1,163 @@
+.image2 {
+  padding-top: 25px;
+}
+
+.nav{
+  position: sticky;
+  top: 0px;
+  background-color: #eed8d8;
+}
+
+
+.navbar2 {
+  font-size: 23px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+
+} 
+
+.navbar2:hover {
+   background-color: rgba(14, 11, 179, 0.247);
+} 
+
+
+.about {
+  padding: 10px;
+  padding-top: 10px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.information {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.setimagecentre{
+  text-align: center;
+  padding: 20px;
+}
+
+.backcolor{
+  background-color: #e9d7d750;
+  border-radius: 20px;
+}
+
+.work{
+  padding: 20px;
+  padding-top: 50px;
+  background-color: #e9d7d750;
+  border-radius: 20px;
+}
+
+.imgpadding{
+  padding: 30px;
+}
+
+.text{
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.skill{
+  padding-top: 50px;
+  /* padding: 20px; */
+  border-radius: 20px;
+  background-color: #e9d7d750 ;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.icons{
+  text-align: center;
+  font-size: 90px;
+  word-spacing: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.bar{
+  padding: 20px;
+}
+
+.experience{
+  padding-top: 30px;
+}
+
+.para{
+  font-size: 25px;
+}
+
+.contact{
+  background-color:#e9d7d750  ;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.location{
+  text-align: center;
+  font-size: 18px;
+}
+
+.inputbox1 {
+  font-size: 15px;
+}
+
+.inputbox2 {
+  width: 380px;
+  font-size: 15px;
+}
+
+.button {
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 213px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+.button:hover {
+  background-color: #d3b7b7;
+  cursor: pointer;
+}
+
+.footer{
+  background-color: #9e9898;
+  padding-top: 50px;
+  border-radius: 20px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+}
+
+.footer:hover{
+  background-color: black;
+}
+.social{
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+  word-spacing: 5px;
+}
+
+/* .fab{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+} */
